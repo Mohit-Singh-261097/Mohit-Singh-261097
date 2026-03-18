@@ -9,7 +9,7 @@ Three years in the UK — including a team lead role at NEC Birmingham — befor
 
 ## Projects
 
-### [Loan Portfolio Diagnostics — NBFC Credit Risk](https://github.com/Mohit-Singh-261097/Loan-Portfolio-Diagnostics)
+### [Loan Portfolio Diagnostics — NBFC Credit Risk](https://github.com/Mohit-Singh-261097/Loan-Portfolio-Diagnostics-)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat&logo=postgresql&logoColor=5DCAA5) ![Power BI](https://img.shields.io/badge/Power_BI-0d0d0d?style=flat&logo=powerbi&logoColor=5DCAA5) ![DAX](https://img.shields.io/badge/DAX-0d0d0d?style=flat&logoColor=5DCAA5)
 
