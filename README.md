@@ -11,7 +11,7 @@ Three years in the UK — including a team lead role at NEC Birmingham — befor
 
 ### [Loan Portfolio Diagnostics — NBFC Credit Risk](https://github.com/Mohit-Singh-261097/Loan-Portfolio-Diagnostics-)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat&logo=postgresql&logoColor=5DCAA5) ![Power BI](https://img.shields.io/badge/Power_BI-0d0d0d?style=flat&logo=powerbi&logoColor=5DCAA5) ![DAX](https://img.shields.io/badge/DAX-0d0d0d?style=flat&logoColor=5DCAA5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat&logo=postgresql&logoColor=5DCAA5) ![BigQuery](https://img.shields.io/badge/BigQuery-0d0d0d?style=flat&logo=googlebigquery&logoColor=5DCAA5) ![Power BI](https://img.shields.io/badge/Power_BI-0d0d0d?style=flat&logo=powerbi&logoColor=5DCAA5) ![DAX](https://img.shields.io/badge/DAX-0d0d0d?style=flat&logoColor=5DCAA5)
 
 Diagnostic analysis of a synthetic ₹784 Cr NBFC retail portfolio across 9,800 loans. The counterintuitive finding: Good-credit salaried borrowers defaulted at the highest rate (14.01%), driven by LTI approvals at 10.20x that the credit score was masking. Recovery collapses from 35% to 3.3% between DPD 30–60 — identified DPD 60 as the true escalation threshold, 30 days earlier than industry norm.
 
